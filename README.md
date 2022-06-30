@@ -1,5 +1,3 @@
-## Hey visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shekar Roy!](https://www.linkedin.com/in/shekarroy87/) 
-
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
@@ -12,6 +10,7 @@
 
 ## My Work Experience 🙌
 - [Lead Software Develpment Engineer (Target Corporartion )](https://www.target.com/) - (Apr'11-Present)
+[Linkedin!](https://www.linkedin.com/in/shekarroy87/) 
 
 ### 🔹Backend framework and libraries:ㅤ
 <p style="padding:10px;">
@@ -53,5 +52,7 @@
 - ⚡ Fun fact: ... Accidental software engineer
 
 <br/>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15/shekarroy15)
