@@ -9,11 +9,7 @@
 ![Shekar's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shekarroy15&layout=compact&langs_count=8&hide_border=true)
 
 
-
-<!--
-**shekarroy15/shekarroy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<br />
 
 - 🔭 I’m currently working on ... working to strengthen the target.com checkout process and enlighten a billion hearts shopping with us daily
 - 🌱 I’m currently learning ... AI/ML
@@ -25,6 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Accidental software engineer
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15.shekarroy15)
--->
 
-
+<br/>
