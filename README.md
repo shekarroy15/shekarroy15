@@ -33,9 +33,6 @@
     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" target="_blank"> <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height=65 width=70 /> </a>
 </p>
  
- 
- 
- 
 
 ![Shekar's github stats](https://github-readme-stats.vercel.app/api?username=shekarroy15&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Shekar's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shekarroy15&layout=compact&langs_count=8&hide_border=true)
@@ -46,13 +43,27 @@
 - 🌱 I’m currently learning ... AI/ML
 - 👯 I’m looking to collaborate on ... anything related to Computer vision project, autonomous driving, survellance 
 - 🤔 I’m looking for help with ... freelance projects on CV
-- 💬 Ask me about ... Software development, foundation of AIML
-- 📫 How to reach me: ... 
+- 💬 Ask me about ... Software development, SDLC, Agile and Foundations of AIML
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ... Accidental software engineer
 
 <br/>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> 
+
+## Find me here
+<p>
+  <a href="mailto:subhroto87@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/shekarroy87"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/shakesorshekar"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+
+<div align="center">
+<p>Thank you for visiting my account, let me know what you liked here👇 :</p>
+ <a href="https://github.com/shekarroy15/shekarroy15/issues/1#issuecomment-new"><img src="https://github.com/shekarroy15/shekarroy15/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+</div>
+
+<br>
+
+Bye <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> 
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15/shekarroy15)
