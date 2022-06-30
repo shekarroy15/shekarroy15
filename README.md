@@ -1,7 +1,7 @@
-# Hi there 👋
+## Hey visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shekar Roy!](https://www.linkedin.com/in/shekarroy87/) 
 
 
-### My Experiences 🙌
+## My Work Experience 🙌
 - [Lead Software Develpment Engineer (Target Corporartion )](https://www.target.com/) - (Apr'11-Present)
 
 
@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ... Accidental software engineer
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15.shekarroy15)
 -->
+
+
