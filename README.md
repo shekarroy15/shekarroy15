@@ -20,6 +20,6 @@
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ... Accidental software engineer
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15.shekarroy15)
-
 <br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shekarroy15/shekarroy15)
