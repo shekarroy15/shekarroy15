@@ -72,10 +72,10 @@
 <br />
 
 - 🔭 I’m currently working on ... working to strengthen the target.com checkout process and enlighten a billion hearts shopping with us daily
-- 🌱 I’m currently learning ... AI/ML
+- 🌱 I’m currently learning ... Golang, AI/ML
 - 👯 I’m looking to collaborate on ... anything related to Computer vision project, autonomous driving, survellance 
 - 🤔 I’m looking for help with ... freelance projects on CV
-- 💬 Ask me about ... Software development, SDLC, Agile and Foundations of AIML
+- 💬 Ask me about ... Software development, SDLC, software testing(SAST, DAST, SCA), software security, Agile and Foundations of AIML
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ... Accidental software engineer
 
